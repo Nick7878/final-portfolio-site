@@ -5,6 +5,7 @@ import { BiographyComponent} from './biography/biography.component';
 import { ProjectsComponent} from './projects/projects.component';
 
 const routes: Routes = [
+  {path: '', component: HomeComponent},
   {path: 'home', component: HomeComponent},
   {path: 'biography', component: BiographyComponent},
   {path: 'projects', component: ProjectsComponent}
