@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "improved-portfolio-site"
+  "defaultProject": "improved-portfolio-site",
+  "cli": {
+    "analytics": "eb16f2a9-217e-4827-b80d-40d9f3d053d2"
+  }
 }
