@@ -5,6 +5,10 @@ img {
   animation-timing-function: cubic-bezier(.71,.55,.62,1.57);
 }
 
+hr {
+  background-color: lightgray;
+}
+
 p {
   font-size: 25px;
   font-family: 'Quicksand', sans-serif;
