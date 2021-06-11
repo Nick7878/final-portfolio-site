@@ -4,6 +4,13 @@ img {
   animation-timing-function: cubic-bezier(.71,.55,.62,1.57);
 }
 
+#github_logo {
+  border-radius: 25px;
+  animation-duration: .54s;
+  animation-name: fadeIn;
+  animation-timing-function: cubic-bezier(.71,.55,.62,1.57);
+}
+
 p {
   font-size: 25px;
   font-family: 'Quicksand', sans-serif;
